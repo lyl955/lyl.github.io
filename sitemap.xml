@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lyl955.github.io/2019/03/24/%E5%8D%9A%E5%AE%A2%E4%BC%8A%E5%A7%8B/</loc>
+    
+    <lastmod>2019-03-24T15:39:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lyl955.github.io/books/index.html</loc>
     
     <lastmod>2019-03-24T14:08:56.000Z</lastmod>
@@ -23,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://lyl955.github.io/2019/03/24/hello-world/</loc>
-    
-    <lastmod>2019-03-24T13:05:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://lyl955.github.io/categories/index.html</loc>
     
     <lastmod>2019-03-24T12:55:02.000Z</lastmod>
@@ -40,13 +40,6 @@
     <loc>https://lyl955.github.io/tags/index.html</loc>
     
     <lastmod>2019-03-24T12:50:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lyl955.github.io/2019/03/24/test-blog/</loc>
-    
-    <lastmod>2019-03-24T02:10:00.000Z</lastmod>
     
   </url>
   
