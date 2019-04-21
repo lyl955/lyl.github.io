@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://lyl955.github.io/"/>
-  <updated>2019-03-25T00:19:42.000Z</updated>
+  <updated>2019-04-21T14:01:58.000Z</updated>
   <id>https://lyl955.github.io/</id>
   
   <author>
@@ -15,6 +15,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>常见负载均衡算法</title>
+    <link href="https://lyl955.github.io/2019/04/21/%E5%B8%B8%E8%A7%81%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E7%AE%97%E6%B3%95/"/>
+    <id>https://lyl955.github.io/2019/04/21/常见负载均衡算法/</id>
+    <published>2019-04-21T13:37:22.000Z</published>
+    <updated>2019-04-21T14:01:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>本文主要介绍常见的负载均衡算法</p></blockquote><p>负载均衡算法，大致分为三种，随机、轮训以及hash方式，但是很多实际情况是每个服务的性能是不一致的，所以一般大部分需要基于权重的调度</p><p>所有需要加权的负载均衡</p><table><thead><tr><th style="text-align:center">名称</th><th style="text-align:center">使用案例</th></tr></thead><tbody><tr><td style="text-align:center">加权随机算法</td><td style="text-align:center">dubbo</td></tr><tr><td style="text-align:center">平滑加权轮训算法</td><td style="text-align:center">nginx，dubbo</td></tr><tr><td style="text-align:center">一致性hash算法</td><td style="text-align:center">dubbo</td></tr></tbody></table><p>dubbo 本身还提供了基于节点活跃程度的负载算法</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a><em>参考</em></h4><ul><li><a href="https://www.fanhaobai.com/2018/11/load-balance-smooth-weighted-round-robin.html#" target="_blank" rel="noopener">负载均衡算法 — 平滑加权轮询</a></li><li><a href="http://dubbo.apache.org/zh-cn/docs/source_code_guide/loadbalance.html" target="_blank" rel="noopener">dubbo文档</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;blockquote&gt;
+&lt;p&gt;本文主要介绍常见的负载均衡算法&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;负载均衡算法，大致分为三种，随机、轮训以及hash方式，但是很多实际情况是每个服务的性能是不一致的，所以一般大部分需要基于权重的调度&lt;/p&gt;
+&lt;p&gt;所有需要加权的负载均衡&lt;/
+      
+    
+    </summary>
+    
+      <category term="算法" scheme="https://lyl955.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+      <category term="算法" scheme="https://lyl955.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue基础</title>
+    <link href="https://lyl955.github.io/2019/04/21/vue%E5%9F%BA%E7%A1%80/"/>
+    <id>https://lyl955.github.io/2019/04/21/vue基础/</id>
+    <published>2019-04-21T06:41:37.000Z</published>
+    <updated>2019-04-21T06:42:23.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="vue" scheme="https://lyl955.github.io/categories/vue/"/>
+    
+    
+      <category term="vue" scheme="https://lyl955.github.io/tags/vue/"/>
+    
+  </entry>
   
   <entry>
     <title>test2</title>
